@@ -1,0 +1,3 @@
+.ipynb_checkpoints
+ex1
+ex2
