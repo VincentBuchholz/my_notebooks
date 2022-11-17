@@ -1,0 +1,572 @@
+<!DOCTYPE html><html lang="nl">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <link rel="canonical" href="https://www.flevonice.nl/" />
+        <meta property="og:title" content="Flevonice" />
+        <meta property="og:url" content="https://www.flevonice.nl/" />
+        <base href="https://www.flevonice.nl/" />
+        <meta name="description" property="og:description" content="" />
+        <script>
+            window.JOUWWEB = window.JOUWWEB || {}; window.JOUWWEB.application = window.JOUWWEB.application || {}; window.JOUWWEB.application = {"editorLocale":"nl-NL","editorTimezone":"Europe\/Amsterdam","backendDomain":"www.jouwweb.nl","backendKey":"jouwweb-nl","freeWebsiteDomain":"jouwweb.nl","noSsl":false,"build":{"reference":"8a7bf19"},"cdnUrl":"https:\/\/cdn.jwwb.nl","developer":false,"pricing":{"plans":{"lite":{"amount":"500","currency":"EUR"},"pro":{"amount":"900","currency":"EUR"},"business":{"amount":"1800","currency":"EUR"}},"yearlyDiscount":{"price":{"amount":"3600","currency":"EUR"},"ratio":0.17}},"landingIpCountry":null};window.JOUWWEB.brand = {"type":"jouwweb","name":"JouwWeb","domain":"JouwWeb.nl","supportEmail":"support@jouwweb.nl"};            window.JOUWWEB = window.JOUWWEB || {}; window.JOUWWEB.websiteRendering = {"locale":"nl-NL","timezone":"Europe\/Amsterdam","routes":{"api\/upload":"\/_api\/upload\/:intent","checkout\/cart":"\/winkelwagen","payment":"\/bestelling-afronden\/:publicOrderId","payment\/forward":"\/bestelling-afronden\/:publicOrderId\/forward","public-order":"\/bestelling\/:publicOrderId","checkout\/authorize":"\/winkelwagen\/authorize\/:gateway","wishlist":"\/verlanglijst"}};                                        window.JOUWWEB.website = {"id":1723033,"locale":"nl-NL","enabled":true,"title":"Flevonice","roleOfLoggedInUser":null,"pro":true,"freeWebsiteDomain":"jouwweb.nl","backendKey":"jouwweb-nl","migrated":false,"currency":"EUR","defaultLocale":"nl-NL","url":"https:\/\/www.flevonice.nl\/","homepageSegmentId":6462211,"homepageSegmentType":"page","category":"webshop","isOffline":false,"locales":["nl-NL"],"allowed":{"ads":false,"credits":true,"slideshow":true,"allowedAlbums":0,"hostedAlbums":true,"moderators":true,"mailBoxes":1,"mailboxQuota":10,"statistics":true,"favicon":true,"password":true,"domainsInProduct":2,"languages":0,"fileUpload":true,"legacyFontSize":false,"webshop":true,"products":-1,"imageText":false,"search":true,"audioUpload":true,"videoUpload":5000,"allowDangerousForms":false,"statisticsMonths":-1,"allowHtmlCode":true,"mobileBar":true,"allowCustomForms":true,"allowBusinessListing":true,"allowCustomAnalytics":true},"mobileBar":{"enabled":false,"theme":"light","email":{"active":true},"location":{"active":true},"phone":{"active":true},"whatsapp":{"active":false},"social":{"active":false,"network":"facebook"}},"webshop":{"enabled":false,"currency":"EUR","taxEnabled":true,"taxInclusive":true,"vatDisclaimerVisible":false,"orderNotice":"LET OP: MINIMUM BESTELBEDRAG 25,-\r\nWIL JE JE MAALTIJD WARM, DAN DIT GRAAG SAMEN MET VOORKEURSLEVERTIJD AANGEVEN IN HET OPMERKINGEN VELD. ","orderConfirmation":null,"freeShipping":false,"freeShippingAmount":2500,"shippingDisclaimerVisible":false,"pickupAllowed":true,"couponAllowed":false,"detailsPageAvailable":false,"socialMediaVisible":true,"termsPage":6499942,"termsPageUrl":"\/algemene-voorwaarden","extraTerms":null,"pricingVisible":true,"orderButtonVisible":true,"shippingAdvanced":true,"shippingAdvancedBackEnd":true,"soldOutVisible":true,"canAddProducts":true,"nextOrderNumber":43,"allowedServicePoints":[],"sendcloudConfigured":false,"sendcloudFallbackPublicKey":"a3d50033a59b4a598f1d7ce7e72aafdf","taxExemptionAllowed":false,"invoiceComment":null,"emptyCartVisible":true,"minimumOrderPrice":null,"productNumbersEnabled":false,"wishlistEnabled":false,"hideTaxOnCart":false}};                            window.JOUWWEB.cart = {"products":[],"coupon":null,"shippingCountryCode":null,"shippingChoice":null};                            window.JOUWWEB.scripts = ["website-rendering\/slideshow"];                        window.parent.JOUWWEB.colorPalette = window.JOUWWEB.colorPalette;
+            if (window.JOUWWEB.editor) {
+                window.JOUWWEB.editor.elements = [];
+            }
+        </script>
+                        <title>Flevonice</title>
+                <link href="https&#x3A;&#x2F;&#x2F;www.google-analytics.com" rel="preconnect">
+<link href="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl&#x2F;assets&#x2F;fonts&#x2F;website-rendering&#x2F;font&#x2F;website-rendering.woff2&#x3F;bust&#x3D;8491e4ff84bdcb0358c9e47841089e8c" rel="preload" crossorigin="1" as="font">
+<link href="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl" rel="preconnect">
+<link href="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl&#x2F;assets&#x2F;website-rendering&#x2F;styles.d5976412d719efcab82c.css&#x3F;bust&#x3D;d5976412d719efcab82ca2828ea1546e" rel="preload" as="style">
+<link href="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl&#x2F;assets&#x2F;website-rendering&#x2F;styles.d5976412d719efcab82c.css&#x3F;bust&#x3D;d5976412d719efcab82ca2828ea1546e" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="https&#x3A;&#x2F;&#x2F;fonts.gstatic.com" rel="preconnect">
+<link href="https&#x3A;&#x2F;&#x2F;fonts.googleapis.com&#x2F;css&#x3F;display&#x3D;fallback&amp;family&#x3D;Raleway&#x25;3A400&#x25;2C700&#x25;2C400italic&#x25;2C700italic" media="screen" rel="stylesheet" type="text&#x2F;css">        <link
+            type="text/css"
+            rel="stylesheet"
+            href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/style.css?bust=1655821616"
+        />
+                            <link href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/touch-icon-iphone.png?1606572901" rel="apple-touch-icon" sizes="60x60" />
+            <link href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/touch-icon-ipad.png?1606572901" rel="apple-touch-icon" sizes="76x76" />
+            <link href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/touch-icon-iphone-retina.png?1606572901" rel="apple-touch-icon" sizes="120x120" />
+            <link href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/touch-icon-ipad-retina.png?1606572901" rel="apple-touch-icon" sizes="152x152" />
+                            <link href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/favicon.png?1606572901" rel="shortcut icon" />
+            <link href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/favicon.png?1606572901" rel="icon" />
+                            <meta property="og:image" content="https&#x3A;&#x2F;&#x2F;fastly.jwwb.nl&#x2F;public&#x2F;r&#x2F;u&#x2F;c&#x2F;temp-znafzzgmjipeswqpkeie&#x2F;fx4gtj&#x2F;image-9.png&#x3F;enable&#x3D;upscale&amp;fit&#x3D;bounds&amp;width&#x3D;1200" />
+                    <meta property="og:image" content="https&#x3A;&#x2F;&#x2F;fastly.jwwb.nl&#x2F;public&#x2F;r&#x2F;u&#x2F;c&#x2F;temp-znafzzgmjipeswqpkeie&#x2F;9jq1je&#x2F;DSCF1471b-2.jpg&#x3F;enable&#x3D;upscale&amp;fit&#x3D;bounds&amp;width&#x3D;1200" />
+                <meta name="twitter:card" content="summary_large_image"/>
+                                <script>
+                window.google_analytics_uacct = "UA\x2D8406245\x2D4";
+                google_analytics_domain_name = "www.flevonice.nl";
+            </script>
+                                        <link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.flevonice.nl/"
+            />
+                            <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '798477693942687');
+fbq('track', 'PageView');
+fbq('track', 'AddToCart');
+</script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=798477693942687&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- End Facebook Pixel Code -->            </head>
+    <body
+        id="top"
+        class="jw-is-slideshow jw-header-is-text jw-is-segment-page jw-is-frontend jw-is-no-sidebar jw-is-no-messagebar jw-is-no-touch-device jw-is-no-mobile"
+                                data-jouwweb-page="6462211"
+                                data-jouwweb-segment-id="6462211"
+                                data-jouwweb-segment-type="page"
+                                data-template-threshold="800"
+                                data-template-name="modern"
+                                data-framebreaker="0"
+                itemscope
+        itemtype="https://schema.org/WebSite"
+    >
+        <meta itemprop="url" content="https://www.flevonice.nl/">
+        <div class="jw-background"></div>
+        <div class="jw-body">
+            <div class="jw-mobile-menu jw-mobile-is-text js-mobile-menu">
+            <span class="jw-mobile-menu__button jw-mobile-menu__button--dummy"></span>        <div class="jw-mobile-header jw-mobile-header--text">
+        <span            class="jw-mobile-header-content"
+                        >
+                                        <span class="jw-mobile-text">
+                    <span style="font-size: 30px;"> </span>                </span>
+                    </span>
+    </div>
+
+    
+            <button
+            type="button"
+            class="jw-mobile-menu__button jw-mobile-toggle"
+            aria-label="Open / sluit menu"
+        >
+            <span class="jw-icon-burger"></span>
+        </button>
+    </div>
+            <header class="header-wrap jw-header-container">
+        <div class="header-wrap__inner">
+        <div class="jw-header-logo">
+        <div
+    class="jw-header jw-header-title-container jw-header-text jw-header-text-toggle"
+    data-stylable="false"
+>
+    <h1        id="jw-header-title"
+        class="jw-header-title"
+            >
+        <span style="font-size: 30px;"> </span>    </h1>
+</div>
+</div>
+    </div>
+</header>
+<div
+    id="jw-slideshow"
+    class="jw-slideshow jw-slideshow-toggle jw-is-slideshow-multiple jw-slideshow-height-ratio jw-slideshow--parallax jw-slideshow--parallax-effect banner-sm"
+    data-pause="7000"
+    data-autoplay="1"
+    data-transition="fade"
+    data-ratio="0.22"
+>
+        <ul>
+                    <li class="jw-slideshow-slide">
+    <div data-key="0" data-text="" data-subtext="" data-buttontext="" data-buttontarget="_self" data-backdrop="0" data-layout="no-text" style="background-position: 50% 56%; background-image: url(&#039;https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/IMG_2964-4.jpeg?fit=bounds&amp;width=1920&amp;height=1920&#039;);" data-background-position-x="0.5" data-background-position-y="0.56" class="jw-slideshow-slide-content jw-slideshow-slide-content-cover jw-slideshow--no-backdrop " >                                <div class="bx-caption-wrapper jw-slideshow-slide-align-center">
+            <div class="bx-caption">
+                <div class="jw-slideshow-title"></div>
+                                            </div>
+        </div>
+    </div>
+</li>
+
+                    <li class="jw-slideshow-slide">
+    <div data-key="1" data-text="" data-subtext="" data-buttontext="" data-buttontarget="_self" data-backdrop="0" data-layout="no-text" style="background-position: 47% 53%; background-image: url(&#039;https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/IMG_4565.jpg?fit=bounds&amp;width=1920&amp;height=1920&#039;);" data-background-position-x="0.47" data-background-position-y="0.53" class="jw-slideshow-slide-content jw-slideshow-slide-content-cover jw-slideshow--no-backdrop " >                                <div class="bx-caption-wrapper jw-slideshow-slide-align-center">
+            <div class="bx-caption">
+                <div class="jw-slideshow-title"></div>
+                                            </div>
+        </div>
+    </div>
+</li>
+
+                    <li class="jw-slideshow-slide">
+    <div data-key="2" data-text="" data-subtext="" data-buttontext="" data-buttontarget="_self" data-backdrop="0" data-layout="no-text" style="background-position: 50% 50%; background-image: url(&#039;https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/Flevonice-Biddinghuizen-3.jpg?fit=bounds&amp;width=1920&amp;height=1920&#039;);" data-background-position-x="0.5" data-background-position-y="0.5" class="jw-slideshow-slide-content jw-slideshow-slide-content-cover jw-slideshow--no-backdrop " >                                <div class="bx-caption-wrapper jw-slideshow-slide-align-center">
+            <div class="bx-caption">
+                <div class="jw-slideshow-title"></div>
+                                            </div>
+        </div>
+    </div>
+</li>
+
+                    <li class="jw-slideshow-slide">
+    <div data-key="3" data-text="" data-subtext="" data-buttontext="" data-buttontarget="_self" data-backdrop="0" data-layout="no-text" style="background-position: 50% 48%; background-image: url(&#039;https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/DJI_0132-1.jpg?fit=bounds&amp;width=1920&amp;height=1920&#039;);" data-background-position-x="0.5" data-background-position-y="0.48" class="jw-slideshow-slide-content jw-slideshow-slide-content-cover jw-slideshow--no-backdrop " >                                <div class="bx-caption-wrapper jw-slideshow-slide-align-center">
+            <div class="bx-caption">
+                <div class="jw-slideshow-title"></div>
+                                            </div>
+        </div>
+    </div>
+</li>
+
+            </ul>
+        <div class="jw-slideshow__scroll-arrow">
+        <i class="website-rendering-icon-down-open-big"></i>
+    </div>
+    <style class="js-patch-viewport-units">
+                .jw-slideshow-slide-content {
+            min-height: 22vh;
+        }
+        @media screen and (min-height: 1200px) {
+            .jw-slideshow-slide-content {
+                min-height: 264px;
+            }
+        }
+            </style>
+</div>
+
+<script>
+    JOUWWEB.templateConfig = {
+        header: {
+            selector: '.header-wrap',
+            mobileSelector: '.jw-mobile-menu',
+            updatePusher: function (headerHeight) {
+                var $sliderStyle = $('#sliderStyle');
+
+                if ($sliderStyle.length === 0) {
+                    $sliderStyle = $('<style />')
+                        .attr('id', 'sliderStyle')
+                        .appendTo(document.body);
+                }
+
+                $sliderStyle.html('.jw-slideshow-slide-content { padding-top: ' + headerHeight + 'px; padding-bottom: ' + (headerHeight * (2/3)) + 'px; } .bx-controls-direction { margin-top: ' + (headerHeight * (1/6)) + 'px; }');
+
+                // make sure slider also gets correct height (because of the added padding)
+                $('.jw-slideshow-slide[aria-hidden=false]').each(function (index) {
+                    var $this = $(this);
+                    headerHeight = $this.outerHeight() > headerHeight ? $this.outerHeight() : headerHeight;
+                    $this.closest('.bx-viewport').css({
+                        height: headerHeight + 'px',
+                    });
+                });
+
+                // If a page has a slideshow and message-bar, offset the mobile nav.
+                const $messageBar = $('.jw-is-slideshow .message-bar');
+                if ($messageBar.length > 0) {
+                    $('.js-mobile-menu, .jw-menu-clone').css('top', $messageBar.outerHeight());
+                }
+            },
+        },
+        mainContentOffset: function () {
+            return $('.main').offset().top - ($('body').hasClass('jw-menu-is-mobile') ? 0 : 60);
+        },
+    };
+</script>
+<nav class="jw-menu-copy">
+    <ul
+    id="jw-menu"
+    class="jw-menu jw-menu-horizontal"
+            >
+            <li
+    class="jw-menu-item jw-menu-is-active"
+    >
+        <a
+        class="jw-menu-link js-active-menu-item"
+        href="/"
+                                            data-page-link-id="6462211"
+                    >
+                <span class="">
+            Welkom        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/flevonice-events"
+                                            data-page-link-id="6529920"
+                    >
+                <span class="">
+            Flevonice Events        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/zonnepanelen"
+                                            data-page-link-id="6467287"
+                    >
+                <span class="">
+            Zonnepanelen        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/ijsbaan"
+                                            data-page-link-id="6538992"
+                    >
+                <span class="">
+            IJsbaan        </span>
+            </a>
+                </li>
+            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/contact"
+                                            data-page-link-id="6467386"
+                    >
+                <span class="">
+            Contact        </span>
+            </a>
+                </li>
+    </ul>
+
+    <script id="jw-mobile-menu-template" type="text/template">
+        <ul id="jw-menu" class="jw-menu jw-menu-horizontal">
+                            <li
+    class="jw-menu-item jw-menu-is-active"
+    >
+        <a
+        class="jw-menu-link js-active-menu-item"
+        href="/"
+                                            data-page-link-id="6462211"
+                    >
+                <span class="">
+            Welkom        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/flevonice-events"
+                                            data-page-link-id="6529920"
+                    >
+                <span class="">
+            Flevonice Events        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/zonnepanelen"
+                                            data-page-link-id="6467287"
+                    >
+                <span class="">
+            Zonnepanelen        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/ijsbaan"
+                                            data-page-link-id="6538992"
+                    >
+                <span class="">
+            IJsbaan        </span>
+            </a>
+                </li>
+                            <li
+    class="jw-menu-item"
+    >
+        <a
+        class="jw-menu-link"
+        href="/contact"
+                                            data-page-link-id="6467386"
+                    >
+                <span class="">
+            Contact        </span>
+            </a>
+                </li>
+                    </ul>
+    </script>
+</nav>
+<main class="main">
+    <div class="content-wrapper">
+        <div class="content">
+            <div data-section-name="content" class="jw-section jw-section-content">
+                <div
+    id="jw-element-98539512"
+    data-jw-element-id="98539512"
+        class="jw-tree-node jw-element jw-container jw-tree-container"
+>
+    <div
+    id="jw-element-98576639"
+    data-jw-element-id="98576639"
+        class="jw-tree-node jw-element jw-image-text jw-node-is-first-child"
+>
+    <div class="jw-element-imagetext-text">
+            <p><strong>Welkom</strong> bij het nieuwe Flevonice!</p>
+<p>&nbsp;</p>
+<p>Flevonice is een recreatieonderneming die de automotive-, sociaal/culturele- en sportieve branche faciliteert en verbindt in de breedste zin van het woord.&nbsp;</p>
+<p>Ons terrein wordt onder andere verhuurd aan ondernemers in bovengenoemde branches. Daarnaast hosten wij op ons terrein samen met onze partners diverse vakbeurzen, feesten/partijen, presentaties, bijeenkomsten en activiteiten gebaseerd op kennis, cultuur, sport en recreatie.</p>
+<p>&nbsp;</p>
+<p>De locatie heeft buiten circa 15 hectare grond, 4 hectare water en een groot parkeerterrein. Daarnaast beschikt Flevonice over een groot restaurant met alle gewenste faciliteiten. Flevonice zoekt en verbindt ondernemingen in de eerder genoemde branches, die elkaar kunnen en willen versterken.&nbsp;</p>
+<p><br />Naast het recreatiebedrijf wordt momenteel een zonnepanelenpark gerealiseerd.</p>
+<p>Flevonice bouwt aan een duurzame toekomst!<br /><br /></p>    </div>
+</div><div
+    id="jw-element-135304581"
+    data-jw-element-id="135304581"
+        class="jw-tree-node jw-element jw-columns jw-tree-container jw-tree-horizontal jw-node-is-last-child"
+>
+    <div
+    id="jw-element-135304582"
+    data-jw-element-id="135304582"
+            style="width: 50%"
+        class="jw-tree-node jw-element jw-container jw-tree-container jw-node-is-first-child lt600 lt800"
+>
+    <div
+    id="jw-element-135304450"
+    data-jw-element-id="135304450"
+        class="jw-tree-node jw-element jw-image jw-node-is-first-child jw-node-is-last-child"
+>
+    <div
+    class="jw-intent jw-element-image jw-element-child jw-element-content jw-element-activeless jw-element-no-margin  jw-element-image-is-center jw-element-image--full-width-to-420"
+            style="width: 346px;"
+        data-high-res-path="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/fx4gtj/image-9.png"
+>
+            <a
+            class="jw-enlarge-image"
+            href="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/fx4gtj/image-9.png"
+            title="Toon grotere versie"
+            data-width="1920"
+            data-height="639"
+            data-aspect="0.333"
+            data-thumb-aspect="1"
+        >
+                        <picture
+            class="jw-element-image__image-wrapper jw-image-is-round jw-intrinsic"
+                            style="padding-top: 100%;"
+                    >
+                            <img
+                    class="jw-element-image__image jw-lazy jw-intrinsic__item"
+                    width="346"
+                    height="346"
+                    alt=""
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/fx4gtj/image-9.png?enable=upscale&amp;crop=639%2C639%2Cx551%2Cy0%2Csafe" data-srcset="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/fx4gtj/image-9.png?enable=upscale&amp;crop=639%2C639%2Cx551%2Cy0%2Csafe 346w, https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/fx4gtj/image-9.png?enable=upscale&amp;crop=639%2C639%2Cx551%2Cy0%2Csafe 800w" data-sizes="(max-width: 420px) 100vw, (max-width: 640px) 346px, (max-width: 588px) 100vw, 346px"                                    />
+                    </picture>
+                </a>
+    </div>
+</div></div><div
+    id="jw-element-135304583"
+    data-jw-element-id="135304583"
+            style="width: 50%"
+        class="jw-tree-node jw-element jw-container jw-tree-container jw-node-is-last-child lt600 lt800"
+>
+    <div
+    id="jw-element-135301303"
+    data-jw-element-id="135301303"
+        class="jw-tree-node jw-element jw-image jw-node-is-first-child jw-node-is-last-child"
+>
+    <div
+    class="jw-intent jw-element-image jw-element-child jw-element-content jw-element-activeless jw-element-no-margin  jw-element-image-is-left jw-element-image--full-width-to-420"
+            style="width: 354px;"
+        data-high-res-path="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/9jq1je/DSCF1471b-2.jpg"
+>
+                        <picture
+            class="jw-element-image__image-wrapper jw-image-is-round jw-intrinsic"
+                            style="padding-top: 100%;"
+                    >
+                            <img
+                    class="jw-element-image__image jw-lazy jw-intrinsic__item"
+                    width="354"
+                    height="354"
+                    alt=""
+                    src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/9jq1je/DSCF1471b-2.jpg?enable=upscale&amp;crop=1357%2C1357%2Cx562%2Cy0%2Csafe" data-srcset="https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/9jq1je/DSCF1471b-2.jpg?enable=upscale&amp;crop=1357%2C1357%2Cx562%2Cy0%2Csafe 354w, https://fastly.jwwb.nl/public/r/u/c/temp-znafzzgmjipeswqpkeie/9jq1je/DSCF1471b-2.jpg?enable=upscale&amp;crop=1357%2C1357%2Cx562%2Cy0%2Csafe 800w" data-sizes="(max-width: 420px) 100vw, (max-width: 640px) 354px, (max-width: 588px) 100vw, 354px"                                    />
+                    </picture>
+        </div>
+</div></div></div></div>    </div>
+        </div>
+        <aside class="sidebar jw-sidebar-toggle">
+                    </aside>
+    </div>
+</main>
+<footer>
+    <div class="footer-wrapper">
+        <div
+    data-section-name="footer"
+    class="jw-section jw-section-footer jw-section-is-pinnable"
+>
+    <div
+    id="jw-element-98539514"
+    data-jw-element-id="98539514"
+        class="jw-tree-node jw-element jw-container jw-tree-container"
+>
+    <div
+    id="jw-element-98556831"
+    data-jw-element-id="98556831"
+        class="jw-tree-node jw-element jw-image-text jw-node-is-first-child"
+>
+    <div class="jw-element-imagetext-text">
+    </div>
+</div><div
+    id="jw-element-98575311"
+    data-jw-element-id="98575311"
+        class="jw-tree-node jw-element jw-social-share jw-node-is-last-child"
+>
+    <div class="jw-element-social-share" style="text-align: left">
+    <div class="share-button-container share-button-container--align-left jw-element-content">
+                                                                <a
+                    class="share-button share-button--facebook jw-element-social-share-button jw-element-social-share-button-facebook "
+                                        href=""
+                    data-href-template="http://www.facebook.com/sharer/sharer.php?u=[url]"
+                                                            rel="nofollow noopener noreferrer"
+                    target="_blank"
+                >
+                    <span class="share-button__icon website-rendering-icon-facebook"></span>
+                    <span class="share-button__label">Delen</span>
+                </a>
+                                                                            <a
+                    class="share-button share-button--twitter jw-element-social-share-button jw-element-social-share-button-twitter "
+                                        href=""
+                    data-href-template="http://twitter.com/intent/tweet?text=[url]"
+                                                            rel="nofollow noopener noreferrer"
+                    target="_blank"
+                >
+                    <span class="share-button__icon website-rendering-icon-twitter"></span>
+                    <span class="share-button__label">Tweet</span>
+                </a>
+                                                                            <a
+                    class="share-button share-button--linkedin jw-element-social-share-button jw-element-social-share-button-linkedin "
+                                        href=""
+                    data-href-template="http://www.linkedin.com/shareArticle?mini=true&amp;url=[url]"
+                                                            rel="nofollow noopener noreferrer"
+                    target="_blank"
+                >
+                    <span class="share-button__icon website-rendering-icon-linkedin"></span>
+                    <span class="share-button__label">Share</span>
+                </a>
+                                                                                        <a
+                    class="share-button share-button--whatsapp jw-element-social-share-button jw-element-social-share-button-whatsapp  share-button--mobile-only"
+                                        href=""
+                    data-href-template="whatsapp://send?text=[url]"
+                                                            rel="nofollow noopener noreferrer"
+                    target="_blank"
+                >
+                    <span class="share-button__icon website-rendering-icon-whatsapp"></span>
+                    <span class="share-button__label">Delen</span>
+                </a>
+                                    </div>
+    </div>
+</div></div>            <div class="jw-credits clear">
+            <div class="jw-credits-owner">
+                <div id="jw-footer-text">
+                    <div class="jw-footer-text-content">
+                        &copy; 2020 - 2022 Flevonice                    </div>
+                </div>
+            </div>
+            <div class="jw-credits-right">
+                                          </div>
+        </div>
+    </div>
+    </div>
+</footer>
+            <div class="jw-bottom-bar__container"></div>
+            <div class="jw-bottom-bar__spacer"></div>
+            <div id="jw-variable-loaded" style="display: none;"></div>
+            <div id="jw-variable-values" style="display: none;">
+                                    <span data-jw-variable-key="background-color" class="jw-variable-value-background-color"></span>
+                                    <span data-jw-variable-key="background" class="jw-variable-value-background"></span>
+                                    <span data-jw-variable-key="font-family" class="jw-variable-value-font-family"></span>
+                                    <span data-jw-variable-key="paragraph-color" class="jw-variable-value-paragraph-color"></span>
+                                    <span data-jw-variable-key="paragraph-link-color" class="jw-variable-value-paragraph-link-color"></span>
+                                    <span data-jw-variable-key="paragraph-font-size" class="jw-variable-value-paragraph-font-size"></span>
+                                    <span data-jw-variable-key="heading-color" class="jw-variable-value-heading-color"></span>
+                                    <span data-jw-variable-key="heading-link-color" class="jw-variable-value-heading-link-color"></span>
+                                    <span data-jw-variable-key="heading-font-size" class="jw-variable-value-heading-font-size"></span>
+                                    <span data-jw-variable-key="heading-font-family" class="jw-variable-value-heading-font-family"></span>
+                                    <span data-jw-variable-key="menu-text-color" class="jw-variable-value-menu-text-color"></span>
+                                    <span data-jw-variable-key="menu-text-link-color" class="jw-variable-value-menu-text-link-color"></span>
+                                    <span data-jw-variable-key="menu-text-font-size" class="jw-variable-value-menu-text-font-size"></span>
+                                    <span data-jw-variable-key="menu-font-family" class="jw-variable-value-menu-font-family"></span>
+                                    <span data-jw-variable-key="menu-capitalize" class="jw-variable-value-menu-capitalize"></span>
+                                    <span data-jw-variable-key="website-size" class="jw-variable-value-website-size"></span>
+                                    <span data-jw-variable-key="footer-text-color" class="jw-variable-value-footer-text-color"></span>
+                                    <span data-jw-variable-key="footer-text-link-color" class="jw-variable-value-footer-text-link-color"></span>
+                                    <span data-jw-variable-key="footer-text-font-size" class="jw-variable-value-footer-text-font-size"></span>
+                                    <span data-jw-variable-key="content-color" class="jw-variable-value-content-color"></span>
+                                    <span data-jw-variable-key="accent-color" class="jw-variable-value-accent-color"></span>
+                                    <span data-jw-variable-key="footer-color" class="jw-variable-value-footer-color"></span>
+                            </div>
+        </div>
+                            <script type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.flevonice.nl\/","name":"Flevonice","logo":{"@type":"ImageObject","url":"https:\/\/fastly.jwwb.nl\/public\/r\/u\/c\/temp-znafzzgmjipeswqpkeie\/29aazu\/image-3.png?enable=upscale&height=60","width":213,"height":60}}]</script>
+                <script >
+    //<!--
+    
+            window.JOUWWEB = window.JOUWWEB || {};
+            window.JOUWWEB.cookieConsent = {"theme":"jw","showLink":false,"content":{"message":"Deze website gebruikt cookies voor analyse-doeleinden en\/of het tonen van advertenties. Door gebruik te blijven maken van de site gaat u hiermee akkoord.","dismiss":"Akkoord"},"autoOpen":false,"cookie":{"name":"cookieconsent_status"}};
+        
+    //-->
+</script>
+<script >
+    //<!--
+    
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA\x2D8406245\x2D4', 'www.flevonice.nl', {'name': '902925259'});ga('902925259.set', 'anonymizeIp', true);ga("902925259.set", "dimension1", "adfree");ga("902925259.set", "dimension2", "permission");ga("902925259.set", "dimension3", "pro");ga("902925259.set", "dimension4", "visitable");ga("902925259.set", "dimension7", "nl");ga("902925259.set", "dimension5", "1723033");ga("902925259.send", "pageview", "\/");ga('create', 'UA\x2D8406245\x2D22', 'www.flevonice.nl', {'name': '219306926'});ga('219306926.set', 'anonymizeIp', true);ga("219306926.set", "dimension3", "nl");ga("219306926.set", "dimension1", "1723033");ga("219306926.send", "pageview", "\/");
+    //-->
+</script>
+<script  src="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl&#x2F;assets&#x2F;build&#x2F;website-rendering&#x2F;nl-NL.js&#x3F;bust&#x3D;fd389a172bf6aa76a74248b39884cdbd"></script>
+<script  src="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl&#x2F;assets&#x2F;website-rendering&#x2F;runtime.f677c915512f410b5273.js&#x3F;bust&#x3D;07378e42c94a25c529e3e7be4a5f2aca"></script>
+<script  src="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl&#x2F;assets&#x2F;website-rendering&#x2F;337.530dd578a07578261b4d.js&#x3F;bust&#x3D;952d266c2c02e3303cddac7041d6498c"></script>
+<script  src="https&#x3A;&#x2F;&#x2F;cdn.jwwb.nl&#x2F;assets&#x2F;website-rendering&#x2F;main.b15919a0aee9b601f9de.js&#x3F;bust&#x3D;77b033d34486c2ecbf926b83cfddfb36"></script>
+<script  async="async" src="https&#x3A;&#x2F;&#x2F;www.jouwweb.nl&#x2F;v2&#x2F;unsafe-token&#x2F;1723033"></script>        <script>window.JOUWWEB = window.JOUWWEB || {}; window.JOUWWEB.experiment = {"enrollments":{},"defaults":{"new-template-variations":"add-new-variations-keep-dated","contact-in-pricing":"floating","tagline-10minutes":"on","hide-webshop-settings-description":"on","downgrade-to-lite-suggestion":"on","personalized-template-variations":"on"}};</script>    </body>
+</html>
